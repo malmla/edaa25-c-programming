@@ -11,3 +11,4 @@ void next_double() {
 	printf("Enter a double: ");
 	scanf("%lf", &number);
 }
+
